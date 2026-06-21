@@ -1,0 +1,15 @@
+2026-05-20 18:53:06 - app.main - ERROR - [main.py:446] - HTTP Exception: 401 - Incorrect email or password
+2026-05-20 18:53:06 - app.main - ERROR - [main.py:453] - Unhandled exception: 'dict' object is not callable
+2026-05-20 18:57:20 - app.main - ERROR - [main.py:446] - HTTP Exception: 401 - Incorrect email or password
+2026-05-20 18:57:20 - app.main - ERROR - [main.py:453] - Unhandled exception: 'dict' object is not callable
+2026-05-20 18:58:14 - app.auth - ERROR - [auth.py:47] - Password hashing error: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-05-20 18:58:32 - app.main - ERROR - [main.py:446] - HTTP Exception: 401 - Incorrect email or password
+2026-05-20 18:58:32 - app.main - ERROR - [main.py:453] - Unhandled exception: 'dict' object is not callable
+2026-05-20 18:59:03 - app.main - ERROR - [main.py:447] - HTTP Exception: 401 - Incorrect email or password
+2026-05-20 18:59:03 - app.auth - ERROR - [auth.py:47] - Password hashing error: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-05-20 18:59:03 - app.main - ERROR - [main.py:103] - Registration error: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-05-20 18:59:03 - app.main - ERROR - [main.py:447] - HTTP Exception: 500 - Registration failed. Please try again.
+2026-05-20 18:59:03 - app.main - ERROR - [main.py:447] - HTTP Exception: 401 - Incorrect email or password
+2026-05-20 19:01:06 - app.main - ERROR - [main.py:447] - HTTP Exception: 401 - Incorrect email or password
+2026-05-20 19:08:52 - app.ai - ERROR - [ai.py:34] - OpenAI API key is not configured
+2026-05-20 19:08:52 - app.main - ERROR - [main.py:447] - HTTP Exception: 500 - AI service is not configured. Please set OPENAI_API_KEY environment variable.
