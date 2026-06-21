@@ -3,7 +3,7 @@
  * Centralized API calls with proper error handling, logging, and type safety
  */
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';;
+const API_URL = 'https://ai-personal-finance-mh61.onrender.com';
 
 // ============ ERROR HANDLING ============
 
